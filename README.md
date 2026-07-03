@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Wassim Mansour 👋</h1>
 
 <p align="center">
-  Cybersecurity & Blockchain Engineering Student • Full-Stack Developer • SOC/Blue Team Enthusiast
+  Cybersecurity & Blockchain Engineering Student • Full-Stack Developer • Offensive & Defensive Security Enthusiast
   <br/>
   Based in Tunisia 🇹🇳 • Open to Cybersecurity Internships worldwide.
 </p>
