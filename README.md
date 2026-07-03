@@ -47,7 +47,7 @@
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wassim-mansour-a13066259))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wassim-mansour-a13066259)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/Jeebs)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram)](https://www.instagram.com/wassim_mansour_)
 
