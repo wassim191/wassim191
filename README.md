@@ -34,7 +34,7 @@
 - 🎓 **Bachelor's in Computer Science**  
   ISIMM (graduated 2024)
 
-
+---
 
 
 ## 📊 GitHub Stats
