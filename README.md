@@ -36,6 +36,17 @@
 
 ---
 
+## 🚀 Projects
+
+| Project | Description | Live |
+|---------|-------------|------|
+| [iPOLY Studio](https://github.com/wassim191/-iPolyStudio-) | Full-stack portfolio & CMS platform for a Tunisian architectural visualization studio | [🌐](https://www.ipolystudio.com) |
+| [WD01 Digital Systems](https://github.com/wassim191/-WD01-) | Agency platform & CMS for WD01 — full-stack digital systems studio | [🌐](https://wd-01.vercel.app) |
+| [S.L.PAK Architecture](https://github.com/wassim191/-PakArchitect-) | Bilingual portfolio & CMS for a Turkish architecture firm | [🌐](https://serpil-lucy-pak-architecture.vercel.app) |
+| [S.L.PAK Rally](https://github.com/wassim191/-PakRallyCarPortfolioWebsite-) | Portfolio showcasing Lucy Serpil Pak's rally driving career | [🌐](https://serpil-lucy-pak.vercel.app) |
+| [SaveAnimals Tunisia](https://github.com/wassim191/-SaveAnimalsTunisia-) | Civic tech donation platform for animal shelters and NGOs in Tunisia | [🌐](https://www.saveanimalstunisia.com) |
+
+---
 
 ## 📊 GitHub Stats
 
