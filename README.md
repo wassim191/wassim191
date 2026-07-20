@@ -10,7 +10,7 @@
 
 ## 🛡️ Cybersecurity
 
-- 🎯 **TryHackMe:** [0xE][GUARDIAN] • Top 1% Globally • 270+ Rooms 
+- 🎯 **TryHackMe:** [0xF][TITAN] • Top 1% Globally • 296+ Rooms 
 - 📜 Completed: **Pre Security** ,**Cyber Security 101**, **Ai Security** & **SOC Level 1** Learning Paths - [Verify](https://tryhackme.com/p/Jeebs?tab=certificates)
 - 🔍 Focus: SOC Analysis • Threat Detection • Malware & Forensic Analysis • Penetration Testing
 - 🏅 Certiport IT Specialist: **Cybersecurity** | **Network Security** | **Cloud Computing** (Valid to 2031)
